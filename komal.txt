@@ -2,4 +2,5 @@ name-komal
 last name- kaur
 vill-jandali
 dist-ludhiana
-state-punjab
+state-punja
+i am studying in computer programmming b
